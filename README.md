@@ -12,6 +12,8 @@ $ npm start
 ## Used Technologies
 - Node.js
 - Express.js
+- express-session
+- express-validator
 - MongoDB
 - Mongoose
 - EJS
